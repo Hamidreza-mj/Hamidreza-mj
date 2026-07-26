@@ -14,7 +14,9 @@
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hamidreza-mj&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
 [![GitHub stats](https://github-stats-extended.vercel.app/api/wakatime?username=hamidreza-mj&layout=compact&custom_title=Stats%20(last%207%20days)&langs_count=12&theme=one_dark_pro)](https://github.com/stats-organization/github-stats-extended)
+-->
 
 <br />
 <br />
