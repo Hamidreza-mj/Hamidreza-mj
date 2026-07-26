@@ -13,6 +13,9 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=hamidreza-mj&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hamidreza-mj&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/wakatime?username=Hamidreza-mj&layout=compact&custom_title=Stats%20(last%207%20days)&langs_count=12&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
